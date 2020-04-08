@@ -1,0 +1,7 @@
+#counter{ background: #444; color: #EEE; padding: 20px 40px; font-size: 34px; font-weight: 700; }
+
+.btns > div{ text-align: center; display: flex; align-items: center; justify-content: center;  }
+
+.btns > .col-2{ justify-content: space-evenly; }
+
+.btns > div p{margin: 0;}
